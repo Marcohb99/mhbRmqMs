@@ -1,0 +1,1 @@
+# mhb-rabbitmq-java-ms
