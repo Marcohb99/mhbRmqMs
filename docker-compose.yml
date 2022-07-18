@@ -10,4 +10,4 @@ services:
         - ./rabbitmq_data/:/var/lib/rabbitmq/
         - ./rabbitmq_log/:/var/log/rabbitmq
     networks:
-        - default
+        - defaultgit push -u origin main
